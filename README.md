@@ -1,9 +1,11 @@
 # Machine-learning 
 
-## 単回帰分析
+## データセット
 - karaage_data.csv：サンプルデータのcsvファイル
-- single_regression.ipynb：単回帰分析のNotebook
 - winequality-red.csv：「Wine Quality Data Set (ワインの品質)」の赤ワインのデータセット
+
+## 単回帰分析
+- single_regression.ipynb：単回帰分析のNotebook
 
 ## 重回帰分析
 - multiple_regression_0.ipynb：重回帰分析（準備）のNotebook
