@@ -10,3 +10,6 @@
 ## 重回帰分析
 - multiple_regression_0.ipynb：重回帰分析（準備）のNotebook
 - multiple_regression_1.ipynb：重回帰分析（実践）のNotebook
+
+## 参考文献
+- Pythonで基礎から機械学習まとめ：https://karaage.hatenadiary.jp/machine-learning-study
